@@ -1,0 +1,14 @@
+=================Most page views=================
+/contact 3 visits
+/index 2 visits
+/home 1 visits
+/about 1 visits
+/about/2 1 visits
+==============END Most page views================
+=================Uniq page views=================
+/index 2 uniq views
+/contact 2 uniq views
+/home 1 uniq views
+/about 1 uniq views
+/about/2 1 uniq views
+==============END Uniq page views================
