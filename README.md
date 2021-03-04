@@ -42,6 +42,29 @@ Run the application:
 $ bin/run.rb webserver.log
 ```
 
+## Example script output:
+
+```bash
+$ bin/run.rb webserver.log
+
+=================Most page views=================
+/about/2 90 visits
+/contact 89 visits
+/index 82 visits
+/about 81 visits
+/help_page/1 80 visits
+/home 78 visits
+==============END Most page views================
+=================Uniq page views=================
+/index 23 uniq views
+/home 23 uniq views
+/contact 23 uniq views
+/help_page/1 23 uniq views
+/about/2 22 uniq views
+/about 21 uniq views
+==============END Uniq page views================
+```
+
 ## Testing
 
 * To run the RSpec tests:
